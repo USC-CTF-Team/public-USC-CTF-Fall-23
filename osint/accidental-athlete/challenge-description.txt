@@ -1,0 +1,16 @@
+Hard
+moonlight
+9 solves
+
+Title:
+accidental athlete
+
+Challenge Description:
+A user on USC's network made an edit to Wikipedia on November 12.
+
+Notes
+
+- There is a properly formatted CYBORG{} flag that you need to find somewhere (the flag is not an IP address).
+
+- Nov. 12 UTC (Nov. 11 Pacific Standard Time). This is not a hint, just a clarification to avoid confusion.
+

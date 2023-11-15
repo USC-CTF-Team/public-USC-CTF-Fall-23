@@ -1,0 +1,12 @@
+Medium
+moonlight
+17 solves
+
+Title:
+yet another scrape
+
+Description:
+Twitter, Duolingo, LinkedIn, and others have all recently been involved in scrapes. And within the last few days, there was another (hint, hint)! If you're interested in learning more about scrapes, check out these blog posts here and here (neither are related to the scrape in question).
+
+Find `i.give.up.on.this.stupid.game@outlook.com`'s current Blitz score on a particular website.
+

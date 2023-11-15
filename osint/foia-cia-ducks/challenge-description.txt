@@ -1,0 +1,13 @@
+Easy
+moonlight's cool friends
+39 solves
+
+Title:
+a little FOIA, as a treat - the CIA's ducks
+
+Challenge Description:
+At one point, there were ducks living at the Central Intelligence Agency!
+
+What is the reference number for the request? Input the full code, including the letter at the beginning.
+
+

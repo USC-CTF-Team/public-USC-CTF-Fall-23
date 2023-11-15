@@ -1,0 +1,9 @@
+Easy
+moonlight
+26 solves
+
+Title:
+A Redditor with the username Queen_Folt87 has appeared... can you find her first post?
+
+Challenge Description:
+Note - If you competed in our spring CTF, you might remember this prompt! Reddit's API is now dead though, so you'll have to find another way to solve it this time...

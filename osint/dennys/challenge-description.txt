@@ -1,0 +1,15 @@
+Easy?
+moonlight
+20 solves
+
+Title:
+denny's?
+
+Challenge Description:
+What month and year was this image captured?
+
+Notes
+
+- You only get 3 shots at this one - we don't want you to brute-force it! Example submission: CYBORG{January 1997}
+
+- To even the playing ground, here's a small hint - this location is very recognizable for USC students. And no, the image was not captured this year.

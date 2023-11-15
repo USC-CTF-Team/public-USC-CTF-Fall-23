@@ -1,0 +1,9 @@
+Easy
+moonlight
+36 solves
+
+Title:
+a little FOIA, as a treat - Jersey plates
+
+Challenge Description:
+Custom license plates denied by the state of New Jersey in 2013. Someone really wanted wanted a particular plate approved! Check pages 7-8, and omit the trailing numbers.

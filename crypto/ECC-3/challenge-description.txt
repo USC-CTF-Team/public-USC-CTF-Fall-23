@@ -1,0 +1,5 @@
+Medium
+
+Why are some of the parameters of the curve kept secret?
+Author: awesome10billion
+Files: server.sage

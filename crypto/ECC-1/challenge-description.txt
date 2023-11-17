@@ -1,0 +1,5 @@
+Easy/Medium
+
+Let's start with a smooth challenge
+Author: awesome10billion
+Files: server.sage

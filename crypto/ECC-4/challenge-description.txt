@@ -1,0 +1,5 @@
+Medium
+
+You need to move your perspective to solve it
+Author: awesome10billion
+Files: server.sage

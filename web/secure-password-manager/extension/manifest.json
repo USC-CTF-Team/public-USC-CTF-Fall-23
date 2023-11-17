@@ -1,0 +1,20 @@
+{
+    "author": "karimpwnz",
+    "name": "SECURE Password Manager",
+    "description": "A password manager that is just too secure.",
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "icons": {
+        "96": "./assets/img/icon-96.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["./js/content-script.js"]
+      }
+    ],
+    "background": {
+        "scripts": ["./js/background.js"]
+    },
+    "permissions": ["storage", "unlimitedStorage", "<all_urls>"]
+}

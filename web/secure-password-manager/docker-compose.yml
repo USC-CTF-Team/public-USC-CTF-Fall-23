@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: bot.Dockerfile
+    ports:
+      - "8767:5000"
+  cool_site:
+    image: flashspys/nginx-static
+    volumes:
+      - ./cool_site:/static:ro

@@ -1,0 +1,4 @@
+Easy
+
+Let's start out with a very basic RSA attack. Can you figure out the math?
+Author: awesome10billion

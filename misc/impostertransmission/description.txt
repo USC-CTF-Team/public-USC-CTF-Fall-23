@@ -1,0 +1,1 @@
+Find the flag hidden in the transmission. The flag will be in the format CYBORG{FLAG}, where FLAG can be any combination of capital letters, numbers, and underscores.
